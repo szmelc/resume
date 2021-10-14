@@ -1,16 +1,25 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
+- project: Distribusion
+  role: Backend Developer
+  duration: Feb 2020 &mdash; now
+  url: https://foodetective.co/en/
+  description: Distribusion is a system that connects online retailers and ground transportation carriers worldwide. Distribusion covers the complete process of distributing ground transportation by integrating carriers' APIs and offering reliable API allowing for searching connections and booking them.
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Citysocializer
+  role: Full-stack Developer
+  duration: Apr 2018 &mdash; now
+  url: https://foodetective.co/en/
+  description: Citysocializer is a subscription-based social networking website based in London. The website provides users a place to connect through common interests and events which lead to meeting new people offline.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Foodetective
+  role: Backend Developer
+  duration: Apr 2018 &mdash; Aug 2018
+  url: https://foodetective.co/en/
+  description: Foodetective is a cloud-based, aggregator and multi-channel commerce platform designed for large and medium-sized F&B businesses. Managers can use our powerful back-office Foodetective For Business which helps them design, set up, and manage their businesses across multiple sales channels, including web, mobile, delivery & bookings platforms, social media, accounting, catering, HR & Payroll, marketplaces, brick-and-mortar locations from a single view.
+
+- project: Inn Style
+  role: Backend Developer
+  duration: Dec 2017 &mdash; Apr 2018
+  url: https://innstyle.co.uk/
+  description: Inn Style is an easy to use, cost effective time saver. It is a system designed specifically for short lets, B&B’s and boutique hotels allowing to manage bookings in properties across 23 countries.
