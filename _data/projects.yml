@@ -1,8 +1,14 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
+- project: Carmen
+  role: Full-stack Developer
+  duration: Feb 2022 &mdash; now
+  url: https://getcarmen.com/
+  description: Carmen is a system for managing car dealerships.
+
 - project: Distribusion
   role: Backend Developer
-  duration: Feb 2020 &mdash; now
+  duration: Feb 2020 &mdash; Feb 2022
   url: https://foodetective.co/en/
   description: Distribusion is a system that connects online retailers and ground transportation carriers worldwide. Distribusion covers the complete process of distributing ground transportation by integrating carriers' APIs and offering reliable API allowing for searching connections and booking them.
 
