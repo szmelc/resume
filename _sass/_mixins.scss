@@ -1,6 +1,12 @@
 // Mixins
 // ---------------------------------------/
 
+@font-face {
+  font-family: 'DIN';
+  src: url('./fonts/dinpro-medium-webfont.woff') format('woff')
+}
+
+
 @mixin border-radius($radius) {
   -webkit-border-radius: $radius;
   -moz-border-radius: $radius;
@@ -51,7 +57,7 @@
 // type utilities
 
 @mixin sans {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: sans-serif;
 }
 
 @mixin sans_light {
@@ -75,17 +81,17 @@
 }
 
 @mixin serif {
-  font-family: "Lora", "Minion Pro", Palatino, Georgia, serif;
+  font-family: "DIN", "Minion Pro", Palatino, Georgia, serif;
 }
 
 @mixin serif_regular {
   @include serif;
-  font-weight: 400;
+  font-weight: 300;
 }
 
 @mixin serif_bold {
   @include serif;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 // layout
