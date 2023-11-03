@@ -9,13 +9,13 @@
 - project: Distribusion
   role: Backend Developer
   duration: Feb 2020 &mdash; Feb 2022
-  url: https://foodetective.co/en/
+  url: https://distribusion.com
   description: Distribusion is a system that connects online retailers and ground transportation carriers worldwide. Distribusion covers the complete process of distributing ground transportation by integrating carriers' APIs and offering reliable API allowing for searching connections and booking them.
 
 - project: Citysocializer
   role: Full-stack Developer
   duration: Apr 2018 &mdash; now
-  url: https://foodetective.co/en/
+  url: https://citysocializer.com
   description: Citysocializer is a subscription-based social networking website based in London. The website provides users a place to connect through common interests and events which lead to meeting new people offline.
 
 - project: Foodetective
