@@ -1,16 +1,15 @@
 
 - company: Carmen, USA (Remote, Contract)
-  position: Ruby Developer
+  position: Full-stack Developer
   duration: Feb 2022 &mdash; Nov 2023
-  summary: Developing application for managing car dealerships.
+  summary: |
+    Developing API and web-client for managing car dealerships. Stack: Ruby on Rails, React.js, AWS.
 
 - company: Distribusion, Berlin, Germany (Remote, Contract)
   position: Ruby Developer
   duration: Feb 2020 &mdash; Feb, 2022
   summary: Developing network of ground transportation carriers' APIs integrations using Ruby, Ruby on Rails, Kafka, Kubernetes, and Google Cloud Platform.
 
-# Jobs
-# Full-stack developer
 - company: Citysocializer, London, UK (Remote, Freelance)
   position: Full-stack Developer
   duration: Apr 2018 &mdash; Aug 2023

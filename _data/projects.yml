@@ -2,9 +2,9 @@
 # uncomment the urls if you wish to display them, and add your own URL
 - project: Carmen
   role: Full-stack Developer
-  duration: Feb 2022 &mdash; now
+  duration: Feb 2022 &mdash; Nov 2023
   url: https://getcarmen.com/
-  description: Carmen is a system for managing car dealerships.
+  description: Carmen is a system for managing car dealerships, dispatching technicians and service advisors and tracking vehicle repairs.
 
 - project: Distribusion
   role: Backend Developer
@@ -14,9 +14,9 @@
 
 - project: Citysocializer
   role: Full-stack Developer
-  duration: Apr 2018 &mdash; now
-  url: https://citysocializer.com
-  description: Citysocializer is a subscription-based social networking website based in London. The website provides users a place to connect through common interests and events which lead to meeting new people offline.
+  duration: Apr 2018 &mdash; Aug 2023
+  url: https://en.wikipedia.org/wiki/Citysocializer
+  description: Citysocializer was a subscription-based social networking website based in London. The website provided users a place to connect through common interests and events which led to meeting new people offline.
 
 - project: Foodetective
   role: Backend Developer
