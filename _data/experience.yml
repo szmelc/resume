@@ -3,18 +3,89 @@
   position: Full-stack Developer
   duration: Feb 2022 &mdash; Nov 2023
   summary: |
-    Developing API and web-client for managing car dealerships. Stack: Ruby on Rails, React.js, AWS.
+    An application is a system for managing car dealerships, scheduling repairs, dispatching technicians and keeping track of dealership's revenue. As a full-stack developer at a SaaS Platform, my responsibility was to develop new features and maintain the platform's backend and frontend.
+    <br/>
+    <br/>
+    Tech stack:
+    <br/>
+    🔵 Backend: Ruby on Rails
+    <br/>
+    🔵 Frontend: JavaScript, React
+    <br/>
+    🔵 Database: PostgreSQL, Redis
+    <br/>
+    🔵 Cloud: AWS & Docker
+    <br/>
+    <br/>
+    Accountable for:
+    <br/>
+    🔵 Full-stack development
+    <br/>
+    🔵 Developing new features
+    <br/>
+    🔵 Identifying and troubleshooting performance and maintenance issues
+    <br/>
+    🔵 Performing code reviews and providing feedback
+    <br/>
+    🔵 Actively participating in agile work processes
+    <br/>
+    🔵 Integrating with external APIs
 
 - company: Distribusion, Berlin, Germany (Remote, Contract)
   position: Ruby Developer
   duration: Feb 2020 &mdash; Feb, 2022
-  summary: Developing network of ground transportation carriers' APIs integrations using Ruby, Ruby on Rails, Kafka, Kubernetes, and Google Cloud Platform.
+  summary: |
+    As a Ruby developer, my responsibility was to integrate carrier APIs into public retailer API offering ground transportation connections.
+    <br/>
+    <br/>
+    Technologies:
+    <br/>
+    🔵 Backend: Ruby on Rails & vanilla Ruby
+    <br/>
+    🔵 Database: PostgreSQL, Redis
+    <br/>
+    🔵 Cloud: GCP & Kubernetes & Kafka
+    <br/>
+    <br/>
+
+    Accountable for:
+    <br/>
+    🔵 Developing new API features
+    <br/>
+    🔵 Integrating external carrier APIs
+    <br/>
+    🔵 Identifying and troubleshooting issues & bugs
+    <br/>
+    🔵 Performing code reviews and providing feedback
+    <br/>
+    🔵 Actively participating in agile work processes
 
 - company: Citysocializer, London, UK (Remote, Freelance)
   position: Full-stack Developer
   duration: Apr 2018 &mdash; Aug 2023
-  summary: Developing social network using Ruby on Rails and backbone.js
-
+  summary: |
+    Jack of all trades for developing subscription-based social networking website based in London and serving the United Kingdom as a paid service and the United States as a free service. The application focused on providing users a place to connect through common interests and events which lead to meeting new people offline.
+    <br/>
+    <br/>
+    Technologies:
+    <br/>
+    🔵 Backend: Ruby on Rails
+    <br/>
+    🔵 Frontend: backbone.js
+    <br/>
+    🔵 Database: PostgreSQL, Redis
+    <br/>
+    🔵 Cloud: GCP & Kubernetes & Kafka
+    <br/>
+    <br/>
+    Accountable for:
+    <br/>
+    🔵 Developing new features for API and web client
+    <br/>
+    🔵 Direct contact with the customer
+    <br/>
+    🔵 Identifying and troubleshooting issues & bugs
+    <br/>
 # Ruby on Rails Developer
 - company: Codest, Cracow, Poland (Remote)
   position: Ruby on Rails Developer

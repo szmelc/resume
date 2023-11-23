@@ -1,11 +1,13 @@
 # Skills
-# Organizational leadership
 - skill: "Backend: Ruby & Ruby on Rails"
 - skill: "Frontend: Vue, React, backbone.js"
-- skill: Javascript & CoffeeScript
-- skill: PostgreSQL & MySQL
-- skill: Redis
 - skill: Building & Integrating APIs
-- skill: Kubernetes & Docker
+- skill: PostgreSQL & MySQL
+- skill: Javascript & CoffeeScript
+- skill: Redis, Sidekiq, Resque
 - skill: AWS & Google Cloud Platform
-
+- skill: Kubernetes & Docker
+- skill: Terraform
+- skill: ElasticSearch & Kafka
+- skill: CircleCI, Jenkins, Spinnaker
+- skill: Shopify
